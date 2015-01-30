@@ -1,7 +1,8 @@
 # nightowl
-repo for project night owl
 
 Couche-Tard Dashboard v0.1 Release Date 01/29/15
+
+Google Slides: https://docs.google.com/presentation/d/1U_MmZzhN6zmMY9RD5cbIzkteuMXM585fSxMsSThhTJo/edit?usp=sharing
 
 -------------------------------
           CONTENTS
