@@ -1,35 +1,90 @@
-# ruby-getting-started
+Couche-Tard Dashboard v0.1 Release Date 01/29/15
 
-A barebones Rails app, which can easily be deployed to Heroku.
+Google Slides: https://docs.google.com/presentation/d/1U_MmZzhN6zmMY9RD5cbIzkteuMXM585fSxMsSThhTJo/edit?usp=sharing
 
-This application support the [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby) article - check it out.
+Mockup: http://invis.io/RQ23S4JUW
 
-## Running Locally
+-------------------------------
+          CONTENTS
+-------------------------------
+   
+ * Overview 
+ * Requirements
+ * Installation
+ * Configuration
+ * Troubleshooting
+ * FAQ
+ * License 
+ * Maintainers
+ 
+-------------------------------
+          Overview 
+-------------------------------
 
-Make sure you have Ruby installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+The Couche-Tard Dashboard is a lightweight graphic user interface that allows
+users to view data analytics on a real time basis. The dashboard provides
+an easy to navigate frontend that allows users to look at broad figures, 
+or to drill-down and see specific metrics. 
 
-```sh
-$ git clone git@github.com:heroku/ruby-getting-started.git
-$ cd ruby-getting-started
-$ bundle install
-$ rake db:create db:migrate
-$ foreman start web
-```
+-------------------------------
+          Requirements
+-------------------------------
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Hardware Requirements:
+ * 2GB of RAM or more
+ * 1.2GHz processor speed or greater
+ * 20MB of free hard drive space
+ 
+Software Requirements:
+ * Windows XP or greater
+ * Up-to-date Adobe Flash Player 
+ 
+-------------------------------
+          Installation
+-------------------------------
 
-## Deploying to Heroku
+Open the installation wizard and choose the installation location on your HD
+Agree to the terms and conditions
+Wait for the installation wizard to complete its task
 
-```sh
-$ heroku create
-$ git push heroku master
-$ heroku run rake db:migrate
-$ heroku open
-```
+-------------------------------
+          Configuration
+-------------------------------
 
-## Documentation
+In the profile tab, choose your location
+The client comes preconfigured with general metrics, however you can specify more
+On you home page, pick which widgets go where and how large they appear
 
-For more information about using Ruby on Heroku, see these Dev Center articles:
+-------------------------------
+          Troubleshooting
+-------------------------------
 
-- [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
+If the installation failed, redownload the package and try again with a new zip file
+If this does not work, try the most up-to-date version (even if not stable)
 
+-------------------------------
+          FAQ
+-------------------------------
+
+Q: Who wrote this program? 
+A: Team Night Owl
+
+-------------------------------
+          License
+-------------------------------
+
+This software is solely licensed to XYZ. This license was issued 01/29/2015 and does not expire.
+This software is not to be shared or copied without consent from the retailer.
+
+-------------------------------
+          Maintainers
+-------------------------------
+
+Rachel Vaney https://github.com/theroguemuppet/
+
+Jordan Parra https://github.com/Jordan-Parra/
+
+Vincent Nyugen https://github.com/vietcent/
+
+Patrick Morong https://github.com/pmorong/
+>>>>>>> d541843f4bb5466ff03b21c02dd362b0c2156c93
