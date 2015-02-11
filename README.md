@@ -1,5 +1,7 @@
 Couche-Tard Dashboard v0.1 Release Date 01/29/15
 
+Vincent
+
 Google Slides: https://docs.google.com/presentation/d/1U_MmZzhN6zmMY9RD5cbIzkteuMXM585fSxMsSThhTJo/edit?usp=sharing
 
 Mockup: http://invis.io/RQ23S4JUW
