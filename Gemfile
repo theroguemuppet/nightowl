@@ -29,8 +29,14 @@ gem 'spring',        group: :development
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-# gem 'puma'
+# Use Unicorn as the app server
+# gem 'unicorn'
+
+# Use Phusion Passenger as the web/app server
 gem 'passenger'
+
+# Use Puma as the web server
+# gem 'puma'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
