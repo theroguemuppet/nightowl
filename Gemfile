@@ -33,7 +33,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'unicorn'
 
 # Use Phusion Passenger as the web/app server
-gem 'passenger'
+# gem 'passenger'
+
+# Use Puma as the web server
+gem 'puma'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
